@@ -1,6 +1,6 @@
 # Tyrannosaurus rex
 
-![T. rex](../images/t-rex.jpg)
+![T. rex](../images/t-rex.png)
 
 **Period:** Late Cretaceous  
 **Length:** ~12 meters  
