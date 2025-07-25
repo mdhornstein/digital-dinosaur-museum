@@ -1,0 +1,12 @@
+# Stegosaurus
+
+![Stegosaurus](../images/stegosaurus.jpg)
+
+**Period:** Late Jurassic  
+**Length:** ~9 meters  
+**Interesting fact:** Its brain was the size of a walnut.
+
+## Anatomy Highlights
+
+- Double row of plates along its back
+- Spiked tail ("thagomizer") for defense

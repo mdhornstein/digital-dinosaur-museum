@@ -1,0 +1,12 @@
+---
+title: "Welcome to the Digital Dinosaur Museum"
+format: html
+---
+
+# 🦕 Welcome!
+
+Explore the fascinating world of dinosaurs. Choose an exhibit to begin:
+
+- [Tyrannosaurus rex](exhibits/tyrannosaurus.qmd)
+- [Stegosaurus](exhibits/stegosaurus.qmd)
+- [Quetzalcoatlus](exhibits/quetzalcoatlus.qmd)

@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Digital Dinosaur Museum"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Exhibits
+        menu:
+          - text: Tyrannosaurus rex
+            href: exhibits/tyrannosaurus.qmd
+          - text: Stegosaurus
+            href: exhibits/stegosaurus.qmd
+          - text: Quetzalcoatlus
+            href: exhibits/quetzalcoatlus.qmd
