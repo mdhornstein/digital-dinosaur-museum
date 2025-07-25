@@ -1,6 +1,6 @@
 # Stegosaurus
 
-![Stegosaurus](../images/stegosaurus.jpg)
+![Stegosaurus](../images/stegosaurus.png)
 
 **Period:** Late Jurassic  
 **Length:** ~9 meters  
